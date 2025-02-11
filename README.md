@@ -1,1 +1,2 @@
-# env
+CLIENT=${CLIENT:-geth}
+HOST_DATA_DIR=./${CLIENT}-data
